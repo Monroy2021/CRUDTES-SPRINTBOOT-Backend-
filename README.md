@@ -15,4 +15,7 @@ Se realizan test al obtener correo de los usuarios.
 ![img_4.png](img_4.png)  
 
 Agregando boton y input para la busqueda de correo
-![img_5.png](img_5.png)
+![img_5.png](img_5.png) 
+
+Demostracion 
+![img_6.png](img_6.png)
